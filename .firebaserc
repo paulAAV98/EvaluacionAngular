@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "evalpaularichabala": {
+      "hosting": {
+        "evalAngular": [
+          "evalpaularichabala"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "evalpaularichabala"
+  }
+}
